@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on JavaScript and python projects
 - 🌱 3 years of experience in software development
 - 📫 How to reach me benedict.ughulu@mail.com
-- 🍕 portfolio https://benedict-anthony.netlfy.app
+- 🍕 portfolio https://benedict-anthony.netlify.app
 
