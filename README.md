@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on JavaScript and python projects
 - 🌱 3 years of experience in software development
 - 📫 How to reach me benedict.ughulu@mail.com
+- 🍕 portfolio https://benedict-anthony.netlfy.app
 
-<!---
-Benedict-Anthony/Benedict-Anthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
