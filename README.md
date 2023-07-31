@@ -24,14 +24,14 @@ I have a diverse skill set, ranging from frontend development to backend enginee
 
 Here are a few projects I've worked on:
 
-1. [Hospital Management System Node JS/Typescript]([https://github.com/yourusername/project1](https://github.com/Benedict-Anthony/Hospital-Management-System)):
+1. [Hospital Management System Node JS/Typescript]([https://github.com/Benedict-Anthony/Hospital-Management-System](https://github.com/Benedict-Anthony/Hospital-Management-System):
    - The Hospital Management System is a comprehensive web application designed to streamline and enhance the management of healthcare facilities. This project aims to provide an efficient platform for hospitals and medical centers to manage patient records, appointments, medical staff, and administrative tasks, ultimately improving the overall efficiency and quality of healthcare services.
 
 
-2. [Allure E-commerce website - Python and React]([https://github.com/Benedict-Anthony/Allure](https://github.com/Benedict-Anthony/Allure):
+2. [Allure E-commerce website - Python and React]([https://github.com/Benedict-Anthony/Allure](https://github.com/Benedict-Anthony/Allure)
    -  Welcome to Allure, your ultimate online shopping destination offering a wide range of exquisite products. We take pride in curating an impressive collection that caters to all your lifestyle needs, from fashion  and everything in between. With a user-friendly interface and secure payment options, we aim to provide you with a seamless and delightful shopping experience.
 
-3. [Web 3 blog, NextJs/Typescript]([https://github.com/yourusername/project3](https://github.com/Benedict-Anthony/web3.0-blog-chain)):
+3. [Web 3 blog, NextJs/Typescript]([https://github.com/Benedict-Anthony/web3.0-blog-chain]https://github.com/Benedict-Anthony/web3.0-blog-chain)
    - Welcome to the Web3.0 Blog Chain, a decentralized blogging platform revolutionizing the way we share and consume content.
 
      
