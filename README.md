@@ -28,7 +28,7 @@ Here are a few projects I've worked on:
    - The Hospital Management System is a comprehensive web application designed to streamline and enhance the management of healthcare facilities. This project aims to provide an efficient platform for hospitals and medical centers to manage patient records, appointments, medical staff, and administrative tasks, ultimately improving the overall efficiency and quality of healthcare services.
 
 
-2. [Allure E-commerce website - Python and React]([https://github.com/yourusername/project2](https://github.com/Benedict-Anthony/Allure)):
+2. [Allure E-commerce website - Python and React]([https://github.com/Benedict-Anthony/Allure](https://github.com/Benedict-Anthony/Allure):
    -  Welcome to Allure, your ultimate online shopping destination offering a wide range of exquisite products. We take pride in curating an impressive collection that caters to all your lifestyle needs, from fashion  and everything in between. With a user-friendly interface and secure payment options, we aim to provide you with a seamless and delightful shopping experience.
 
 3. [Web 3 blog, NextJs/Typescript]([https://github.com/yourusername/project3](https://github.com/Benedict-Anthony/web3.0-blog-chain)):
