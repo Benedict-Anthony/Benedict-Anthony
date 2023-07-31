@@ -24,7 +24,7 @@ I have a diverse skill set, ranging from frontend development to backend enginee
 
 Here are a few projects I've worked on:
 
-1. [Hospital Management System Node JS/Typescript](https://github.com/Benedict-Anthony/Hospital-Management-System):
+1. [Hospital Management System Node JS/Typescript](https://github.com/Benedict-Anthony/Hospital-Management-System)
    - The Hospital Management System is a comprehensive web application designed to streamline and enhance the management of healthcare facilities. This project aims to provide an efficient platform for hospitals and medical centers to manage patient records, appointments, medical staff, and administrative tasks, ultimately improving the overall efficiency and quality of healthcare services.
 
 
